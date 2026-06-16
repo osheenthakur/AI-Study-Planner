@@ -20,6 +20,22 @@ A study planning application built using Python and Streamlit.
 * AI-powered study recommendations
 * Gemini AI integration
 
+ 
+* ## How to Run
+
+1. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+2. Run the application
+
+```bash
+streamlit run app.py
+```
+
+
 ## Author
 
 Osheen Thakur
