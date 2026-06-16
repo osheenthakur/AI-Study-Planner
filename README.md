@@ -1,45 +1,30 @@
 # AI Study Planner
 
-A study planning application built using Python and Streamlit.
+A smart study planning application built using Python and Streamlit.
 
 ## Features
 
-* Enter subjects
-* Enter available study hours
-* Generate a study plan instantly
+- Subject-wise study planning
+- Difficulty-based hour allocation
+- Exam date selection
+- Smart study recommendations
+- Clean user interface
 
 ## Technologies Used
 
-* Python
-* Streamlit
+- Python
+- Streamlit
+- GitHub
 
 ## Future Improvements
 
-* Subject difficulty levels
-* Exam date tracking
-* AI-powered study recommendations
-* Gemini AI integration
-
- 
-* ## How to Run
-
-1. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-2. Run the application
-
-```bash
-streamlit run app.py
-```
-
+- Gemini AI integration
+- PDF export
+- Weekly planner
+- Progress tracking
 
 ## Author
 
 Osheen Thakur
-
-B.Tech CSE Student @ LPU
 
 
