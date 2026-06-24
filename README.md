@@ -1,4 +1,4 @@
-# AI Study Planner
+# Study Planner Application
 
 A smart study planning application built using Python and Streamlit.
 
