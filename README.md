@@ -25,6 +25,6 @@ A smart study planning application built using Python and Streamlit.
 
 ## Author
 
-Osheen Thakur
+Osheen Thakur.
 
 
